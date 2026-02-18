@@ -7,9 +7,16 @@
 <!-- MODEL_TABLE_START -->
 | 模型名称 | 尺寸 | 简介 | 魔搭地址 | HuggingFace |
 |---------|------|------|---------|-------------|
+| Qwen/QwQ-32B-Preview | 32B | QwQ 推理模型预览版，擅长复杂推理任务 | [魔搭](https://www.modelscope.cn/models/qwen/QwQ-32B-Preview) | [HF](https://huggingface.co/Qwen/QwQ-32B-Preview) |
+| Qwen/Qwen2.5-14B-Instruct | 14B | Qwen2.5 系列中等模型，适合本地部署 | [魔搭](https://www.modelscope.cn/models/qwen/Qwen2.5-14B-Instruct) | [HF](https://huggingface.co/Qwen/Qwen2.5-14B-Instruct) |
+| Qwen/Qwen2.5-32B-Instruct | 32B | Qwen2.5 系列大模型，平衡性能与效率 | [魔搭](https://www.modelscope.cn/models/qwen/Qwen2.5-32B-Instruct) | [HF](https://huggingface.co/Qwen/Qwen2.5-32B-Instruct) |
+| Qwen/Qwen2.5-72B-Instruct | 72B | Qwen2.5 系列最大模型，支持 128K 上下文，多语言能力强 | [魔搭](https://www.modelscope.cn/models/qwen/Qwen2.5-72B-Instruct) | [HF](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct) |
+| Qwen/Qwen2.5-7B-Instruct | 7B | Qwen2.5 系列小模型，消费级 GPU 可运行 | [魔搭](https://www.modelscope.cn/models/qwen/Qwen2.5-7B-Instruct) | [HF](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) |
+| Qwen/Qwen2.5-Coder-32B-Instruct | 32B | 专为代码生成优化的 Qwen2.5 模型 | [魔搭](https://www.modelscope.cn/models/qwen/Qwen2.5-Coder-32B-Instruct) | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct) |
+| Qwen/Qwen2.5-Math-72B-Instruct | 72B | 专为数学推理优化的 Qwen2.5 模型 | [魔搭](https://www.modelscope.cn/models/qwen/Qwen2.5-Math-72B-Instruct) | [HF](https://huggingface.co/Qwen/Qwen2.5-Math-72B-Instruct) |
 <!-- MODEL_TABLE_END -->
 
-*数据每日自动更新，最后更新：待首次运行*
+*数据每日自动更新，最后更新：2026-02-18 09:30*
 
 ## 🔧 技术栈
 

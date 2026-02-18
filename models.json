@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-02-18T09:30:49.918617",
+  "total": 7,
+  "models": [
+    {
+      "name": "Qwen/Qwen2.5-72B-Instruct",
+      "size": "72B",
+      "description": "Qwen2.5 系列最大模型，支持 128K 上下文，多语言能力强",
+      "modelscope_url": "https://www.modelscope.cn/models/qwen/Qwen2.5-72B-Instruct",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-72B-Instruct",
+      "updated_at": "2026-02-18T09:30:49.918519"
+    },
+    {
+      "name": "Qwen/Qwen2.5-32B-Instruct",
+      "size": "32B",
+      "description": "Qwen2.5 系列大模型，平衡性能与效率",
+      "modelscope_url": "https://www.modelscope.cn/models/qwen/Qwen2.5-32B-Instruct",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-32B-Instruct",
+      "updated_at": "2026-02-18T09:30:49.918536"
+    },
+    {
+      "name": "Qwen/Qwen2.5-14B-Instruct",
+      "size": "14B",
+      "description": "Qwen2.5 系列中等模型，适合本地部署",
+      "modelscope_url": "https://www.modelscope.cn/models/qwen/Qwen2.5-14B-Instruct",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct",
+      "updated_at": "2026-02-18T09:30:49.918539"
+    },
+    {
+      "name": "Qwen/Qwen2.5-7B-Instruct",
+      "size": "7B",
+      "description": "Qwen2.5 系列小模型，消费级 GPU 可运行",
+      "modelscope_url": "https://www.modelscope.cn/models/qwen/Qwen2.5-7B-Instruct",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "updated_at": "2026-02-18T09:30:49.918541"
+    },
+    {
+      "name": "Qwen/Qwen2.5-Coder-32B-Instruct",
+      "size": "32B",
+      "description": "专为代码生成优化的 Qwen2.5 模型",
+      "modelscope_url": "https://www.modelscope.cn/models/qwen/Qwen2.5-Coder-32B-Instruct",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct",
+      "updated_at": "2026-02-18T09:30:49.918543"
+    },
+    {
+      "name": "Qwen/Qwen2.5-Math-72B-Instruct",
+      "size": "72B",
+      "description": "专为数学推理优化的 Qwen2.5 模型",
+      "modelscope_url": "https://www.modelscope.cn/models/qwen/Qwen2.5-Math-72B-Instruct",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-Math-72B-Instruct",
+      "updated_at": "2026-02-18T09:30:49.918544"
+    },
+    {
+      "name": "Qwen/QwQ-32B-Preview",
+      "size": "32B",
+      "description": "QwQ 推理模型预览版，擅长复杂推理任务",
+      "modelscope_url": "https://www.modelscope.cn/models/qwen/QwQ-32B-Preview",
+      "huggingface_url": "https://huggingface.co/Qwen/QwQ-32B-Preview",
+      "updated_at": "2026-02-18T09:30:49.918546"
+    }
+  ]
+}
