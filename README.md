@@ -10,10 +10,10 @@
 | AesSedai/Qwen3.5-122B-A10B-GGUF | - |  | - | [HF](https://huggingface.co/AesSedai/Qwen3.5-122B-A10B-GGUF) |
 | AesSedai/Qwen3.5-35B-A3B-GGUF | - |  | - | [HF](https://huggingface.co/AesSedai/Qwen3.5-35B-A3B-GGUF) |
 | Arunk25/Qwen-Image-Edit-Rapid-AIO-GGUF | - |  | - | [HF](https://huggingface.co/Arunk25/Qwen-Image-Edit-Rapid-AIO-GGUF) |
-| BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4 | - |  | - | [HF](https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4) |
 | GadflyII/Qwen3-Coder-Next-NVFP4 | - |  | - | [HF](https://huggingface.co/GadflyII/Qwen3-Coder-Next-NVFP4) |
 | GitMylo/nsfwvision-qwen3-vl-8b-v3-safetensors | - |  | - | [HF](https://huggingface.co/GitMylo/nsfwvision-qwen3-vl-8b-v3-safetensors) |
 | OpenMOSE/Qwen3.5-REAP-212B-A17B | - |  | - | [HF](https://huggingface.co/OpenMOSE/Qwen3.5-REAP-212B-A17B) |
+| OpenMOSE/Qwen3.5-REAP-97B-A10B | - |  | - | [HF](https://huggingface.co/OpenMOSE/Qwen3.5-REAP-97B-A10B) |
 | Phr00t/Qwen-Image-Edit-Rapid-AIO | - |  | - | [HF](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO) |
 | QuantTrio/Qwen3.5-122B-A10B-AWQ | - |  | - | [HF](https://huggingface.co/QuantTrio/Qwen3.5-122B-A10B-AWQ) |
 | Qwen/Qwen-Image | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image) |
@@ -24,16 +24,12 @@
 | Qwen/Qwen-Image-Layered | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Layered) |
 | Qwen/Qwen2.5-1.5B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) |
 | Qwen/Qwen2.5-7B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) |
-| Qwen/Qwen2.5-Coder-7B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct) |
 | Qwen/Qwen2.5-Coder-7B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) |
 | Qwen/Qwen2.5-VL-3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct) |
-| Qwen/Qwen2.5-VL-7B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
-| Qwen/Qwen3-14B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-14B) |
 | Qwen/Qwen3-30B-A3B-Instruct-2507 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507) |
 | Qwen/Qwen3-30B-A3B-Thinking-2507 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) |
 | Qwen/Qwen3-32B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-32B) |
-| Qwen/Qwen3-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B) |
 | Qwen/Qwen3-4B-Instruct-2507 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) |
 | Qwen/Qwen3-4B-Thinking-2507 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507) |
 | Qwen/Qwen3-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-8B) |
@@ -46,7 +42,6 @@
 | Qwen/Qwen3-Embedding-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Qwen/Qwen3-Embedding-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
 | Qwen/Qwen3-Next-80B-A3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) |
-| Qwen/Qwen3-TTS-12Hz-0.6B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign) |
@@ -54,9 +49,14 @@
 | Qwen/Qwen3-VL-32B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct) |
 | Qwen/Qwen3-VL-4B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct) |
 | Qwen/Qwen3-VL-8B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
-| Qwen/Qwen3-VL-Embedding-2B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-Embedding-2B) |
 | Qwen/Qwen3.5-122B-A10B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-122B-A10B) |
 | Qwen/Qwen3.5-122B-A10B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-122B-A10B-FP8) |
+| Qwen/Qwen3.5-27B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-27B) |
+| Qwen/Qwen3.5-27B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-27B-FP8) |
+| Qwen/Qwen3.5-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-35B-A3B) |
+| Qwen/Qwen3.5-35B-A3B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base) |
+| Qwen/Qwen3.5-35B-A3B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-35B-A3B-FP8) |
+| Qwen/Qwen3.5-397B-A17B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
