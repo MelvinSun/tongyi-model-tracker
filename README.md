@@ -11,7 +11,9 @@
 | AesSedai/Qwen3.5-35B-A3B-GGUF | - |  | - | [HF](https://huggingface.co/AesSedai/Qwen3.5-35B-A3B-GGUF) |
 | Arunk25/Qwen-Image-Edit-Rapid-AIO-GGUF | - |  | - | [HF](https://huggingface.co/Arunk25/Qwen-Image-Edit-Rapid-AIO-GGUF) |
 | BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4 | - |  | - | [HF](https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4) |
+| Comfy-Org/Qwen3.5 | - |  | - | [HF](https://huggingface.co/Comfy-Org/Qwen3.5) |
 | Ex0bit/Qwen3.5-122B-A10B-PRISM-PRO-GGUF | - |  | - | [HF](https://huggingface.co/Ex0bit/Qwen3.5-122B-A10B-PRISM-PRO-GGUF) |
+| HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive) |
 | Holy-fox/Qwen3.5-0.8B-JP | - |  | - | [HF](https://huggingface.co/Holy-fox/Qwen3.5-0.8B-JP) |
@@ -33,7 +35,6 @@
 | Qwen/Qwen3-Coder-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 | Qwen/Qwen3-Coder-Next-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) |
 | Qwen/Qwen3-Embedding-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
-| Qwen/Qwen3-TTS-12Hz-1.7B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign) |
 | Qwen/Qwen3-VL-4B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct) |
@@ -56,7 +57,6 @@
 | Qwen/Qwen3.5-397B-A17B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-397B-A17B-FP8) |
 | Qwen/Qwen3.5-397B-A17B-GPTQ-Int4 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-397B-A17B-GPTQ-Int4) |
 | Qwen/Qwen3.5-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B) |
-| Qwen/Qwen3.5-4B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B-Base) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
