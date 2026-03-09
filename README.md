@@ -7,6 +7,7 @@
 <!-- MODEL_TABLE_START -->
 | 模型名称 | 尺寸 | 简介 | 魔搭地址 | HuggingFace |
 |---------|------|------|---------|-------------|
+| AIImageStudio/Qwen3.5-9b-heretic-v2-GGUF | - |  | - | [HF](https://huggingface.co/AIImageStudio/Qwen3.5-9b-heretic-v2-GGUF) |
 | AesSedai/Qwen3.5-122B-A10B-GGUF | - |  | - | [HF](https://huggingface.co/AesSedai/Qwen3.5-122B-A10B-GGUF) |
 | AesSedai/Qwen3.5-35B-A3B-GGUF | - |  | - | [HF](https://huggingface.co/AesSedai/Qwen3.5-35B-A3B-GGUF) |
 | BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4 | - |  | - | [HF](https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4) |
@@ -31,13 +32,12 @@
 | Qwen/Qwen3-4B-Instruct-2507 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) |
 | Qwen/Qwen3-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-8B) |
 | Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
-| Qwen/Qwen3-Coder-30B-A3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Qwen/Qwen3-Coder-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
-| Qwen/Qwen3-Coder-Next-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) |
+| Qwen/Qwen3-Coder-Next-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next-GGUF) |
 | Qwen/Qwen3-Embedding-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
+| Qwen/Qwen3-Embedding-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
+| Qwen/Qwen3-TTS-12Hz-1.7B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
-| Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign) |
-| Qwen/Qwen3-VL-30B-A3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct) |
 | Qwen/Qwen3-VL-8B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
 | Qwen/Qwen3.5-0.8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-0.8B) |
 | Qwen/Qwen3.5-0.8B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-0.8B-Base) |
