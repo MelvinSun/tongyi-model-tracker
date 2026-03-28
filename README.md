@@ -7,7 +7,8 @@
 <!-- MODEL_TABLE_START -->
 | 模型名称 | 尺寸 | 简介 | 魔搭地址 | HuggingFace |
 |---------|------|------|---------|-------------|
-| AesSedai/Qwen3.5-35B-A3B-GGUF | - |  | - | [HF](https://huggingface.co/AesSedai/Qwen3.5-35B-A3B-GGUF) |
+| 0xSero/Qwen-3.5-28B-A3B-REAP | - |  | - | [HF](https://huggingface.co/0xSero/Qwen-3.5-28B-A3B-REAP) |
+| BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4 | - |  | - | [HF](https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4) |
 | Danrisi/Samsung_Qwen2512 | - |  | - | [HF](https://huggingface.co/Danrisi/Samsung_Qwen2512) |
 | DavidAU/Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking) |
 | DavidAU/Qwen3.5-9B-Claude-4.6-OS-Auto-Variable-HERETIC-UNCENSORED-THINKING-MAX-NEOCODE-Imatrix-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.5-9B-Claude-4.6-OS-Auto-Variable-HERETIC-UNCENSORED-THINKING-MAX-NEOCODE-Imatrix-GGUF) |
@@ -35,6 +36,7 @@
 | Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2) |
 | Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF) |
 | Jackrong/Qwen3.5-9B-Neo | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-Neo) |
+| Jackrong/Qwen3.5-9B-Neo-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-Neo-GGUF) |
 | LEONW24/Qwen3.5-9B-Uncensored | - |  | - | [HF](https://huggingface.co/LEONW24/Qwen3.5-9B-Uncensored) |
 | LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Kullback-Leibler | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Kullback-Leibler) |
 | Phr00t/Qwen-Image-Edit-Rapid-AIO | - |  | - | [HF](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO) |
@@ -42,21 +44,19 @@
 | Qwen/Qwen-Image | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image) |
 | Qwen/Qwen-Image-2512 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-2512) |
 | Qwen/Qwen-Image-Edit | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Edit) |
-| Qwen/Qwen-Image-Edit-2509 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) |
 | Qwen/Qwen-Image-Edit-2511 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) |
 | Qwen/Qwen-Image-Layered | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Layered) |
 | Qwen/Qwen2.5-1.5B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) |
-| Qwen/Qwen2.5-3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-3B-Instruct) |
 | Qwen/Qwen2.5-7B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) |
-| Qwen/Qwen2.5-Coder-7B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) |
 | Qwen/Qwen2.5-VL-7B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
+| Qwen/Qwen3-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-1.7B) |
 | Qwen/Qwen3-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B) |
 | Qwen/Qwen3-4B-Instruct-2507 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) |
 | Qwen/Qwen3-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-8B) |
 | Qwen/Qwen3-ASR-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-0.6B) |
 | Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
-| Qwen/Qwen3-Coder-30B-A3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
+| Qwen/Qwen3-Coder-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
