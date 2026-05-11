@@ -8,7 +8,6 @@
 | 模型名称 | 尺寸 | 简介 | 魔搭地址 | HuggingFace |
 |---------|------|------|---------|-------------|
 | ADSKAILab/Zero-To-CAD-Qwen3-VL-2B | - |  | - | [HF](https://huggingface.co/ADSKAILab/Zero-To-CAD-Qwen3-VL-2B) |
-| AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16 | - |  | - | [HF](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16) |
 | AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4 | - |  | - | [HF](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4) |
 | Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP | - |  | - | [HF](https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP) |
 | Comfy-Org/Qwen-Image_ComfyUI | - |  | - | [HF](https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI) |
@@ -17,7 +16,6 @@
 | DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF) |
 | DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking) |
 | DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF) |
-| Ex0bit/Qwen3.6-35B-A3B-PRISM-NVFP4 | - |  | - | [HF](https://huggingface.co/Ex0bit/Qwen3.6-35B-A3B-PRISM-NVFP4) |
 | HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive) |
@@ -26,7 +24,6 @@
 | Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) |
 | Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF) |
 | Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF) |
-| Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash) |
 | Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF) |
 | Jundot/Qwen3.6-27B-oQ4-mtp | - |  | - | [HF](https://huggingface.co/Jundot/Qwen3.6-27B-oQ4-mtp) |
 | Lorbus/Qwen3.6-27B-int4-AutoRound | - |  | - | [HF](https://huggingface.co/Lorbus/Qwen3.6-27B-int4-AutoRound) |
@@ -35,6 +32,8 @@
 | Phr00t/Qwen-Image-Edit-Rapid-AIO | - |  | - | [HF](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO) |
 | Qwen/Qwen-Image-2512 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-2512) |
 | Qwen/Qwen-Image-Edit-2511 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) |
+| Qwen/Qwen-Image-Layered | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Layered) |
+| Qwen/Qwen2.5-1.5B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) |
 | Qwen/Qwen2.5-7B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | Qwen/Qwen3-4B-Instruct-2507 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) |
@@ -53,10 +52,11 @@
 | Qwen/Qwen3.6-27B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.6-27B-FP8) |
 | Qwen/Qwen3.6-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) |
 | Qwen/Qwen3.6-35B-A3B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8) |
-| Qwen/SAE-Res-Qwen3.5-27B-W80K-L0_50 | - |  | - | [HF](https://huggingface.co/Qwen/SAE-Res-Qwen3.5-27B-W80K-L0_50) |
 | Qwen/WebWorld-14B | - |  | - | [HF](https://huggingface.co/Qwen/WebWorld-14B) |
 | Qwen/WebWorld-32B | - |  | - | [HF](https://huggingface.co/Qwen/WebWorld-32B) |
 | Qwen/WebWorld-8B | - |  | - | [HF](https://huggingface.co/Qwen/WebWorld-8B) |
+| RDson/Qwen3.6-27B-MTP-Q4_K_M-GGUF | - |  | - | [HF](https://huggingface.co/RDson/Qwen3.6-27B-MTP-Q4_K_M-GGUF) |
+| RedHatAI/Qwen3-8B-speculator.dflash | - |  | - | [HF](https://huggingface.co/RedHatAI/Qwen3-8B-speculator.dflash) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
