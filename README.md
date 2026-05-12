@@ -10,7 +10,6 @@
 | ADSKAILab/Zero-To-CAD-Qwen3-VL-2B | - |  | - | [HF](https://huggingface.co/ADSKAILab/Zero-To-CAD-Qwen3-VL-2B) |
 | AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4 | - |  | - | [HF](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4) |
 | Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP | - |  | - | [HF](https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP) |
-| Comfy-Org/Qwen-Image_ComfyUI | - |  | - | [HF](https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI) |
 | CoreWorxLab/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2-int4-AutoRound | - |  | - | [HF](https://huggingface.co/CoreWorxLab/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2-int4-AutoRound) |
 | DavidAU/Qwen3.5-21B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.5-21B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking) |
 | DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF) |
@@ -27,10 +26,10 @@
 | Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF) |
 | Jundot/Qwen3.6-27B-oQ4-mtp | - |  | - | [HF](https://huggingface.co/Jundot/Qwen3.6-27B-oQ4-mtp) |
 | Lorbus/Qwen3.6-27B-int4-AutoRound | - |  | - | [HF](https://huggingface.co/Lorbus/Qwen3.6-27B-int4-AutoRound) |
-| LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Wasserstein-GGUF | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Wasserstein-GGUF) |
 | ManniX-ITA/Qwen3.6-27B-Omnimerge-v4-GGUF | - |  | - | [HF](https://huggingface.co/ManniX-ITA/Qwen3.6-27B-Omnimerge-v4-GGUF) |
 | Phr00t/Qwen-Image-Edit-Rapid-AIO | - |  | - | [HF](https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO) |
 | Qwen/Qwen-Image-2512 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-2512) |
+| Qwen/Qwen-Image-Edit-2509 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) |
 | Qwen/Qwen-Image-Edit-2511 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) |
 | Qwen/Qwen-Image-Layered | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Layered) |
 | Qwen/Qwen2.5-1.5B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) |
@@ -45,7 +44,6 @@
 | Qwen/Qwen3-VL-2B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct) |
 | Qwen/Qwen3-VL-8B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
 | Qwen/Qwen3.5-0.8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-0.8B) |
-| Qwen/Qwen3.5-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-35B-A3B) |
 | Qwen/Qwen3.5-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B) |
 | Qwen/Qwen3.5-9B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-9B) |
 | Qwen/Qwen3.6-27B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.6-27B) |
@@ -57,6 +55,8 @@
 | Qwen/WebWorld-8B | - |  | - | [HF](https://huggingface.co/Qwen/WebWorld-8B) |
 | RDson/Qwen3.6-27B-MTP-Q4_K_M-GGUF | - |  | - | [HF](https://huggingface.co/RDson/Qwen3.6-27B-MTP-Q4_K_M-GGUF) |
 | RedHatAI/Qwen3-8B-speculator.dflash | - |  | - | [HF](https://huggingface.co/RedHatAI/Qwen3-8B-speculator.dflash) |
+| RedHatAI/Qwen3.6-35B-A3B-NVFP4 | - |  | - | [HF](https://huggingface.co/RedHatAI/Qwen3.6-35B-A3B-NVFP4) |
+| TeichAI/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2-GGUF | - |  | - | [HF](https://huggingface.co/TeichAI/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2-GGUF) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
