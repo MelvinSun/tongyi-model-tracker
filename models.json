@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T02:40:14.896772",
+  "updated_at": "2026-05-19T02:38:11.065858",
   "total": 100,
   "models": [
     {
@@ -9,7 +9,7 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895276"
+      "updated_at": "2026-05-19T02:38:11.064192"
     },
     {
       "name": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
@@ -18,7 +18,7 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895290"
+      "updated_at": "2026-05-19T02:38:11.064209"
     },
     {
       "name": "froggeric/Qwen-Fixed-Chat-Templates",
@@ -27,7 +27,7 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895295"
+      "updated_at": "2026-05-19T02:38:11.064214"
     },
     {
       "name": "Qwen/Qwen3.6-35B-A3B",
@@ -36,7 +36,7 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895299"
+      "updated_at": "2026-05-19T02:38:11.064218"
     },
     {
       "name": "Qwen/Qwen3.6-27B",
@@ -45,25 +45,7 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/Qwen/Qwen3.6-27B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895305"
-    },
-    {
-      "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895310"
-    },
-    {
-      "name": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895318"
+      "updated_at": "2026-05-19T02:38:11.064222"
     },
     {
       "name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -72,16 +54,16 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895323"
+      "updated_at": "2026-05-19T02:38:11.064229"
     },
     {
-      "name": "unsloth/Qwen3.6-27B-GGUF",
+      "name": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895327"
+      "updated_at": "2026-05-19T02:38:11.064233"
     },
     {
       "name": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
@@ -90,61 +72,25 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895336"
+      "updated_at": "2026-05-19T02:38:11.064242"
     },
     {
-      "name": "Qwen/Qwen3.5-9B",
+      "name": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+      "huggingface_url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895340"
+      "updated_at": "2026-05-19T02:38:11.064249"
     },
     {
-      "name": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "name": "unsloth/Qwen3.6-27B-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895343"
-    },
-    {
-      "name": "havenoammo/Qwen3.6-35B-A3B-MTP-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/havenoammo/Qwen3.6-35B-A3B-MTP-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895348"
-    },
-    {
-      "name": "Qwen/WebWorld-8B",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/WebWorld-8B",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895354"
-    },
-    {
-      "name": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895361"
-    },
-    {
-      "name": "z-lab/Qwen3.6-27B-DFlash",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895366"
+      "updated_at": "2026-05-19T02:38:11.064253"
     },
     {
       "name": "unsloth/Qwen3.5-9B-MTP-GGUF",
@@ -153,7 +99,34 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-9B-MTP-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895370"
+      "updated_at": "2026-05-19T02:38:11.064257"
+    },
+    {
+      "name": "Qwen/Qwen3.5-9B",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064261"
+    },
+    {
+      "name": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064265"
+    },
+    {
+      "name": "z-lab/Qwen3.6-27B-DFlash",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064270"
     },
     {
       "name": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
@@ -162,295 +135,34 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895375"
+      "updated_at": "2026-05-19T02:38:11.064273"
     },
     {
-      "name": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "name": "Qwen/WebWorld-8B",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "huggingface_url": "https://huggingface.co/Qwen/WebWorld-8B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895382"
+      "updated_at": "2026-05-19T02:38:11.064279"
     },
     {
-      "name": "unsloth/Qwen3.5-9B-GGUF",
+      "name": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
+      "huggingface_url": "https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895386"
+      "updated_at": "2026-05-19T02:38:11.064283"
     },
     {
-      "name": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "name": "havenoammo/Qwen3.6-35B-A3B-MTP-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "huggingface_url": "https://huggingface.co/havenoammo/Qwen3.6-35B-A3B-MTP-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895390"
-    },
-    {
-      "name": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895393"
-    },
-    {
-      "name": "unsloth/Qwen3.6-27B-NVFP4",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-27B-NVFP4",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895397"
-    },
-    {
-      "name": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895402"
-    },
-    {
-      "name": "Qwen/Qwen-Image-2512",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen-Image-2512",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895405"
-    },
-    {
-      "name": "Qwen/Qwen3.5-4B",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.5-4B",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895409"
-    },
-    {
-      "name": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895414"
-    },
-    {
-      "name": "froggeric/Qwen3.6-27B-MTP-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/froggeric/Qwen3.6-27B-MTP-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895419"
-    },
-    {
-      "name": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895423"
-    },
-    {
-      "name": "fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895428"
-    },
-    {
-      "name": "Qwen/WebWorld-32B",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/WebWorld-32B",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895435"
-    },
-    {
-      "name": "mudler/Qwen3.6-35B-A3B-APEX-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/mudler/Qwen3.6-35B-A3B-APEX-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895441"
-    },
-    {
-      "name": "Qwen/Qwen3-ASR-1.7B",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895446"
-    },
-    {
-      "name": "JonasGeiping/stream-qwen3.5-27b",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/JonasGeiping/stream-qwen3.5-27b",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895453"
-    },
-    {
-      "name": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895459"
-    },
-    {
-      "name": "DavidAU/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/DavidAU/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895466"
-    },
-    {
-      "name": "ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895471"
-    },
-    {
-      "name": "Qwen/Qwen3.6-27B-FP8",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.6-27B-FP8",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895475"
-    },
-    {
-      "name": "huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895481"
-    },
-    {
-      "name": "unsloth/Qwen3.5-4B-MTP-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-4B-MTP-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895485"
-    },
-    {
-      "name": "Qwen/Qwen3-Embedding-0.6B",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895489"
-    },
-    {
-      "name": "Qwen/Qwen-Image-Edit-2509",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen-Image-Edit-2509",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895493"
-    },
-    {
-      "name": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895498"
-    },
-    {
-      "name": "sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895504"
-    },
-    {
-      "name": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895512"
-    },
-    {
-      "name": "Qwen/Qwen2.5-7B-Instruct",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895544"
-    },
-    {
-      "name": "Qwen/Qwen-Image-Edit-2511",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen-Image-Edit-2511",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895555"
-    },
-    {
-      "name": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895567"
-    },
-    {
-      "name": "unsloth/Qwen3.6-35B-A3B-NVFP4",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-NVFP4",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895575"
-    },
-    {
-      "name": "chiennv/Orthrus-Qwen3-8B",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895581"
+      "updated_at": "2026-05-19T02:38:11.064287"
     },
     {
       "name": "mudler/Qwen3.6-35B-A3B-APEX-MTP-GGUF",
@@ -459,241 +171,178 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/mudler/Qwen3.6-35B-A3B-APEX-MTP-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895586"
+      "updated_at": "2026-05-19T02:38:11.064295"
     },
     {
-      "name": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "name": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct",
+      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895591"
+      "updated_at": "2026-05-19T02:38:11.064301"
     },
     {
-      "name": "Qwen/Qwen3-1.7B",
+      "name": "fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+      "huggingface_url": "https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895595"
+      "updated_at": "2026-05-19T02:38:11.064306"
     },
     {
-      "name": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "name": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "huggingface_url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895599"
+      "updated_at": "2026-05-19T02:38:11.064312"
     },
     {
-      "name": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "name": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "huggingface_url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895603"
+      "updated_at": "2026-05-19T02:38:11.064317"
     },
     {
-      "name": "bartowski/Qwen_Qwen3.6-35B-A3B-GGUF",
+      "name": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/bartowski/Qwen_Qwen3.6-35B-A3B-GGUF",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895607"
+      "updated_at": "2026-05-19T02:38:11.064322"
     },
     {
-      "name": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Balanced",
+      "name": "Qwen/Qwen3.5-4B",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Balanced",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.5-4B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895612"
+      "updated_at": "2026-05-19T02:38:11.064326"
     },
     {
-      "name": "spiritbuun/Qwen3.6-27B-DFlash-GGUF",
+      "name": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/spiritbuun/Qwen3.6-27B-DFlash-GGUF",
+      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895619"
+      "updated_at": "2026-05-19T02:38:11.064331"
     },
     {
-      "name": "sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP",
+      "name": "unsloth/Qwen3.6-27B-NVFP4",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-27B-NVFP4",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895626"
+      "updated_at": "2026-05-19T02:38:11.064336"
     },
     {
-      "name": "ManniX-ITA/Qwen3.6-27B-Omnimerge-v4-GGUF",
+      "name": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/ManniX-ITA/Qwen3.6-27B-Omnimerge-v4-GGUF",
+      "huggingface_url": "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895630"
+      "updated_at": "2026-05-19T02:38:11.064339"
     },
     {
-      "name": "unsloth/Qwen-Image-Edit-2511-GGUF",
+      "name": "unsloth/Qwen3.5-4B-MTP-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-4B-MTP-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895634"
+      "updated_at": "2026-05-19T02:38:11.064343"
     },
     {
-      "name": "unsloth/Qwen3-Coder-Next-GGUF",
+      "name": "DavidAU/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
+      "huggingface_url": "https://huggingface.co/DavidAU/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895638"
+      "updated_at": "2026-05-19T02:38:11.064354"
     },
     {
-      "name": "Qwen/WebWorld-14B",
+      "name": "Qwen/Qwen-Image-2512",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/WebWorld-14B",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen-Image-2512",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895645"
+      "updated_at": "2026-05-19T02:38:11.064357"
     },
     {
-      "name": "unsloth/Qwen3.5-4B-GGUF",
+      "name": "unsloth/Qwen3.5-9B-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895648"
+      "updated_at": "2026-05-19T02:38:11.064361"
     },
     {
-      "name": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+      "name": "huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+      "huggingface_url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895654"
+      "updated_at": "2026-05-19T02:38:11.064369"
     },
     {
-      "name": "Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
+      "name": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
+      "huggingface_url": "https://huggingface.co/Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895662"
+      "updated_at": "2026-05-19T02:38:11.064377"
     },
     {
-      "name": "cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+      "name": "chiennv/Orthrus-Qwen3-8B",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+      "huggingface_url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895666"
+      "updated_at": "2026-05-19T02:38:11.064382"
     },
     {
-      "name": "RedHatAI/Qwen3.6-35B-A3B-NVFP4",
+      "name": "JonasGeiping/stream-qwen3.5-27b",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/RedHatAI/Qwen3.6-35B-A3B-NVFP4",
+      "huggingface_url": "https://huggingface.co/JonasGeiping/stream-qwen3.5-27b",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895670"
+      "updated_at": "2026-05-19T02:38:11.064386"
     },
     {
-      "name": "cyankiwi/Qwen3.6-27B-AWQ-INT4",
+      "name": "Qwen/WebWorld-32B",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/cyankiwi/Qwen3.6-27B-AWQ-INT4",
+      "huggingface_url": "https://huggingface.co/Qwen/WebWorld-32B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895673"
+      "updated_at": "2026-05-19T02:38:11.064392"
     },
     {
-      "name": "mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-GGUF",
+      "name": "mudler/Qwen3.6-35B-A3B-APEX-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-GGUF",
+      "huggingface_url": "https://huggingface.co/mudler/Qwen3.6-35B-A3B-APEX-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895678"
-    },
-    {
-      "name": "Qwen/Qwen3-VL-8B-Instruct",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895684"
-    },
-    {
-      "name": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895688"
-    },
-    {
-      "name": "mudler/Qwen3.6-35B-A3B-uncensored-heretic-APEX-GGUF",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/mudler/Qwen3.6-35B-A3B-uncensored-heretic-APEX-GGUF",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895693"
-    },
-    {
-      "name": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895701"
-    },
-    {
-      "name": "Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895705"
-    },
-    {
-      "name": "z-lab/Qwen3.6-27B-PARO",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/z-lab/Qwen3.6-27B-PARO",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895710"
-    },
-    {
-      "name": "GestaltLabs/Qwen3.6-35B-A3B-NSC-ACE-SABER-GGUF-MTP",
-      "size": "-",
-      "description": "",
-      "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/GestaltLabs/Qwen3.6-35B-A3B-NSC-ACE-SABER-GGUF-MTP",
-      "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895715"
+      "updated_at": "2026-05-19T02:38:11.064396"
     },
     {
       "name": "unsloth/Qwen3.5-122B-A10B-MTP-GGUF",
@@ -702,115 +351,223 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-MTP-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895719"
+      "updated_at": "2026-05-19T02:38:11.064400"
     },
     {
-      "name": "Qwen/Qwen3-0.6B",
+      "name": "Qwen/Qwen3-ASR-1.7B",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895723"
+      "updated_at": "2026-05-19T02:38:11.064403"
     },
     {
-      "name": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "name": "Qwen/Qwen3.6-27B-FP8",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.6-27B-FP8",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895727"
+      "updated_at": "2026-05-19T02:38:11.064407"
     },
     {
-      "name": "unsloth/Qwen3.5-0.8B-GGUF",
+      "name": "unsloth/Qwen3.6-35B-A3B-NVFP4",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-0.8B-GGUF",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-NVFP4",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895731"
+      "updated_at": "2026-05-19T02:38:11.064411"
     },
     {
-      "name": "Qwen/Qwen3.6-35B-A3B-FP8",
+      "name": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8",
+      "huggingface_url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895735"
+      "updated_at": "2026-05-19T02:38:11.064417"
     },
     {
-      "name": "huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated",
+      "name": "Qwen/Qwen2.5-7B-Instruct",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895739"
+      "updated_at": "2026-05-19T02:38:11.064422"
     },
     {
-      "name": "rico03/Qwen3.6-27B-Claude-Opus-Reasoning-Distilled-GGUF",
+      "name": "Qwen/Qwen3-1.7B",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/rico03/Qwen3.6-27B-Claude-Opus-Reasoning-Distilled-GGUF",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-1.7B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895744"
+      "updated_at": "2026-05-19T02:38:11.064427"
     },
     {
-      "name": "Intel/Qwen3.6-27B-int4-AutoRound",
+      "name": "Qwen/Qwen3-Embedding-0.6B",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Intel/Qwen3.6-27B-int4-AutoRound",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895749"
+      "updated_at": "2026-05-19T02:38:11.064433"
     },
     {
-      "name": "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-Multimodal-NVFP4-MTP-XS",
+      "name": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-Multimodal-NVFP4-MTP-XS",
+      "huggingface_url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895757"
+      "updated_at": "2026-05-19T02:38:11.064437"
     },
     {
-      "name": "llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
+      "name": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2",
+      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895761"
+      "updated_at": "2026-05-19T02:38:11.064442"
     },
     {
-      "name": "ggufbench/Qwen3.6-27B-4bpw-16GB-VRAM",
+      "name": "sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/ggufbench/Qwen3.6-27B-4bpw-16GB-VRAM",
+      "huggingface_url": "https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895765"
+      "updated_at": "2026-05-19T02:38:11.064448"
     },
     {
-      "name": "turboderp/Qwen3.6-27B-DFlash-exl3",
+      "name": "sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/turboderp/Qwen3.6-27B-DFlash-exl3",
+      "huggingface_url": "https://huggingface.co/sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895768"
+      "updated_at": "2026-05-19T02:38:11.064454"
     },
     {
-      "name": "unsloth/Qwen3.5-2B-MTP-GGUF",
+      "name": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-2B-MTP-GGUF",
+      "huggingface_url": "https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895771"
+      "updated_at": "2026-05-19T02:38:11.064462"
+    },
+    {
+      "name": "froggeric/Qwen3.6-27B-MTP-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/froggeric/Qwen3.6-27B-MTP-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064467"
+    },
+    {
+      "name": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064471"
+    },
+    {
+      "name": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064474"
+    },
+    {
+      "name": "unsloth/Qwen-Image-Edit-2511-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen-Image-Edit-2511-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064478"
+    },
+    {
+      "name": "unsloth/Qwen3-Coder-Next-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064482"
+    },
+    {
+      "name": "unsloth/Qwen3.5-4B-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064486"
+    },
+    {
+      "name": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064490"
+    },
+    {
+      "name": "ManniX-ITA/Qwen3.6-27B-Omnimerge-v4-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/ManniX-ITA/Qwen3.6-27B-Omnimerge-v4-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064496"
+    },
+    {
+      "name": "Qwen/Qwen-Image-Edit-2511",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen-Image-Edit-2511",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064500"
+    },
+    {
+      "name": "RedHatAI/Qwen3.6-35B-A3B-NVFP4",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/RedHatAI/Qwen3.6-35B-A3B-NVFP4",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064503"
+    },
+    {
+      "name": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064508"
+    },
+    {
+      "name": "cyankiwi/Qwen3.6-27B-AWQ-INT4",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/cyankiwi/Qwen3.6-27B-AWQ-INT4",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064511"
     },
     {
       "name": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-GGUF",
@@ -819,70 +576,106 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895776"
+      "updated_at": "2026-05-19T02:38:11.064516"
     },
     {
-      "name": "Qwen/Qwen2.5-0.5B-Instruct",
+      "name": "Qwen/Qwen-Image-Edit-2509",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen-Image-Edit-2509",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895781"
+      "updated_at": "2026-05-19T02:38:11.064519"
     },
     {
-      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "name": "Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+      "huggingface_url": "https://huggingface.co/Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895785"
+      "updated_at": "2026-05-19T02:38:11.064527"
     },
     {
-      "name": "Qwen/Qwen3-8B",
+      "name": "bartowski/Qwen_Qwen3.6-35B-A3B-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "huggingface_url": "https://huggingface.co/bartowski/Qwen_Qwen3.6-35B-A3B-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895789"
+      "updated_at": "2026-05-19T02:38:11.064530"
     },
     {
-      "name": "Qwen/Qwen-Image-Edit",
+      "name": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen-Image-Edit",
+      "huggingface_url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895793"
+      "updated_at": "2026-05-19T02:38:11.064535"
     },
     {
-      "name": "Qwen/Qwen3-VL-2B-Instruct",
+      "name": "mudler/Qwen3.6-35B-A3B-uncensored-heretic-APEX-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
+      "huggingface_url": "https://huggingface.co/mudler/Qwen3.6-35B-A3B-uncensored-heretic-APEX-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895802"
+      "updated_at": "2026-05-19T02:38:11.064540"
     },
     {
-      "name": "Novice25/Qwen-Image-Edit-Rapid-AIO-GGUF",
+      "name": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Balanced",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Novice25/Qwen-Image-Edit-Rapid-AIO-GGUF",
+      "huggingface_url": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Balanced",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895805"
+      "updated_at": "2026-05-19T02:38:11.064547"
     },
     {
-      "name": "Qwen/Qwen3-Coder-Next",
+      "name": "spiritbuun/Qwen3.6-27B-DFlash-GGUF",
       "size": "-",
       "description": "",
       "modelscope_url": "",
-      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+      "huggingface_url": "https://huggingface.co/spiritbuun/Qwen3.6-27B-DFlash-GGUF",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895810"
+      "updated_at": "2026-05-19T02:38:11.064551"
+    },
+    {
+      "name": "mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/mudler/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled-APEX-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064557"
+    },
+    {
+      "name": "GestaltLabs/Qwen3.6-35B-A3B-NSC-ACE-SABER-GGUF-MTP",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/GestaltLabs/Qwen3.6-35B-A3B-NSC-ACE-SABER-GGUF-MTP",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064562"
+    },
+    {
+      "name": "unsloth/Qwen3.5-2B-MTP-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-2B-MTP-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064566"
+    },
+    {
+      "name": "Qwen/Qwen3-0.6B",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064570"
     },
     {
       "name": "BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4",
@@ -891,7 +684,16 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895814"
+      "updated_at": "2026-05-19T02:38:11.064574"
+    },
+    {
+      "name": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064577"
     },
     {
       "name": "Qwen/Qwen3.5-2B",
@@ -900,7 +702,205 @@
       "modelscope_url": "",
       "huggingface_url": "https://huggingface.co/Qwen/Qwen3.5-2B",
       "source": "huggingface",
-      "updated_at": "2026-05-18T02:40:14.895818"
+      "updated_at": "2026-05-19T02:38:11.064582"
+    },
+    {
+      "name": "Qwen/Qwen3.5-0.8B",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064586"
+    },
+    {
+      "name": "mlx-community/Qwen3.5-27B-Claude-4.6-Opus-Distilled-MLX-4bit",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/mlx-community/Qwen3.5-27B-Claude-4.6-Opus-Distilled-MLX-4bit",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064590"
+    },
+    {
+      "name": "ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/ADSKAILab/Zero-To-CAD-Qwen3-VL-2B",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064595"
+    },
+    {
+      "name": "cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/cyankiwi/Qwen3.6-35B-A3B-AWQ-4bit",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064599"
+    },
+    {
+      "name": "Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064604"
+    },
+    {
+      "name": "chiennv/Orthrus-Qwen3-4B",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/chiennv/Orthrus-Qwen3-4B",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064608"
+    },
+    {
+      "name": "chiennv/Orthrus-Qwen3-1.7B",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/chiennv/Orthrus-Qwen3-1.7B",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064612"
+    },
+    {
+      "name": "DavidAU/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/DavidAU/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064621"
+    },
+    {
+      "name": "ggml-org/Qwen3.6-35B-A3B-MTP-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/ggml-org/Qwen3.6-35B-A3B-MTP-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064624"
+    },
+    {
+      "name": "YTan2000/Qwen3.6-35B-A3B-MTP-TQ3_4S",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/YTan2000/Qwen3.6-35B-A3B-MTP-TQ3_4S",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064629"
+    },
+    {
+      "name": "Qwen/Qwen2.5-1.5B-Instruct",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064633"
+    },
+    {
+      "name": "Qwen/Qwen3-8B",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064637"
+    },
+    {
+      "name": "Qwen/Qwen3-VL-8B-Instruct",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064641"
+    },
+    {
+      "name": "Qwen/Qwen3-Coder-Next",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064644"
+    },
+    {
+      "name": "Qwen/Qwen3.5-35B-A3B",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064650"
+    },
+    {
+      "name": "unsloth/Qwen3.5-0.8B-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/unsloth/Qwen3.5-0.8B-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064654"
+    },
+    {
+      "name": "mlx-community/Qwen3.5-9B-OptiQ-4bit",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/mlx-community/Qwen3.5-9B-OptiQ-4bit",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064658"
+    },
+    {
+      "name": "Qwen/Qwen3.6-35B-A3B-FP8",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064662"
+    },
+    {
+      "name": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Wasserstein-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Wasserstein-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064667"
+    },
+    {
+      "name": "huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064670"
+    },
+    {
+      "name": "bartowski/Qwen_Qwen3.6-27B-GGUF",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/bartowski/Qwen_Qwen3.6-27B-GGUF",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064680"
+    },
+    {
+      "name": "Minachist/Qwen3.6-27B-INT8-AutoRound",
+      "size": "-",
+      "description": "",
+      "modelscope_url": "",
+      "huggingface_url": "https://huggingface.co/Minachist/Qwen3.6-27B-INT8-AutoRound",
+      "source": "huggingface",
+      "updated_at": "2026-05-19T02:38:11.064684"
     }
   ]
 }
