@@ -16,9 +16,10 @@
 | DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF) |
 | DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking) |
 | DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF) |
-| DavidAU/Qwen3.6-40B-Grand-Intelligence-Six-711-717-raw | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Grand-Intelligence-Six-711-717-raw) |
+| DavidAU/Qwen3.6-40B-Grand-Intelligence-Six-711-717-rawb | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Grand-Intelligence-Six-711-717-rawb) |
 | DreamFast/Qwen3-VL-4b-Heretic-ComfyUI | - |  | - | [HF](https://huggingface.co/DreamFast/Qwen3-VL-4b-Heretic-ComfyUI) |
 | EschaLabs/Qwen3.6-35B-A3B-Escha-W2 | - |  | - | [HF](https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2) |
+| EschaLabs/escha-runtime-qwen3moe | - |  | - | [HF](https://huggingface.co/EschaLabs/escha-runtime-qwen3moe) |
 | HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive) |
@@ -42,6 +43,7 @@
 | Qwen/Qwen2.5-Coder-7B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) |
 | Qwen/Qwen2.5-VL-7B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
+| Qwen/Qwen3-32B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-32B) |
 | Qwen/Qwen3-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B) |
 | Qwen/Qwen3-4B-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B-GGUF) |
 | Qwen/Qwen3-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-8B) |
@@ -53,10 +55,8 @@
 | Qwen/Qwen3-Embedding-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Qwen/Qwen3-Embedding-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-8B) |
 | Qwen/Qwen3-Reranker-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B) |
-| Qwen/Qwen3-TTS-12Hz-1.7B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 | Qwen/Qwen3-VL-8B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) |
-| Qwen/Qwen3-VL-8B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct-GGUF) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
