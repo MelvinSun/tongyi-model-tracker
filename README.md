@@ -7,20 +7,19 @@
 <!-- MODEL_TABLE_START -->
 | 模型名称 | 尺寸 | 简介 | 魔搭地址 | HuggingFace |
 |---------|------|------|---------|-------------|
+| 0xKitkat/Qwen3.8-27B-Uncensored-Aggressive | - |  | - | [HF](https://huggingface.co/0xKitkat/Qwen3.8-27B-Uncensored-Aggressive) |
+| AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16 | - |  | - | [HF](https://huggingface.co/AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16) |
 | Abiray/Qwen3.8-27B-Q4_K_M-GGUF | - |  | - | [HF](https://huggingface.co/Abiray/Qwen3.8-27B-Q4_K_M-GGUF) |
 | AtomicChat/Qwen3.8-27B-GGUF | - |  | - | [HF](https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF) |
 | Blackfrost-AI/Qwen3.8-27B-ABLITERATED-BF16 | - |  | - | [HF](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-BF16) |
 | Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF | - |  | - | [HF](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF) |
-| DavidAU/Qwen3.5-9B-The-Defiant-Fable-DARK-ROAST-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-DARK-ROAST-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP) |
 | DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-MTP | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-MTP) |
 | DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) |
-| DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF) |
-| DavidAU/Qwen3.6-40B-Fable-Fusion-6-Core-Deckard-Eleanor-Heretic-Uncensored | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Fable-Fusion-6-Core-Deckard-Eleanor-Heretic-Uncensored) |
 | DavidAU/Qwen3.6-40B-Fable-Fusion-6-Core-Deckard-Eleanor-Heretic-Uncensored-NM-DAU-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Fable-Fusion-6-Core-Deckard-Eleanor-Heretic-Uncensored-NM-DAU-NEO-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic) |
 | DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-40B-Grand-Intelligence-Fable-Fusion-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) |
-| DreamFast/Qwen3-VL-4b-Heretic-ComfyUI | - |  | - | [HF](https://huggingface.co/DreamFast/Qwen3-VL-4b-Heretic-ComfyUI) |
+| DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1 | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1) |
 | EschaLabs/Qwen3.6-35B-A3B-Escha-W2 | - |  | - | [HF](https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2) |
 | HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive) |
@@ -28,35 +27,36 @@
 | Inferact/Qwen3.8-27B-NVFP4 | - |  | - | [HF](https://huggingface.co/Inferact/Qwen3.8-27B-NVFP4) |
 | Jackrong/DeepSeek-V4-Pro-Qwen3.5-4B-MTP-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-4B-MTP-GGUF) |
 | Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF) |
-| Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) |
+| Jackrong/Qwen3.8-27B-MTP-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.8-27B-MTP-GGUF) |
+| JonathanColetti/Qwen3.8-27B-Uncensored | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored) |
 | JonathanColetti/Qwen3.8-27B-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
 | LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF) |
-| Ma7ee7/Qwen3.8_4B_Distilled_GGUF | - |  | - | [HF](https://huggingface.co/Ma7ee7/Qwen3.8_4B_Distilled_GGUF) |
+| PocketAiHub/Qwen3.8-27B-Abliterated-MLX | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX) |
 | Qwen/Qwen-AgentWorld-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) |
 | Qwen/Qwen-Image-Edit-2511 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) |
-| Qwen/Qwen2.5-Coder-7B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | Qwen/Qwen3-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-8B) |
 | Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
-| Qwen/Qwen3-Coder-30B-A3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Qwen/Qwen3-Coder-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 | Qwen/Qwen3-Embedding-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Qwen/Qwen3-ForcedAligner-0.6B-hf | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ForcedAligner-0.6B-hf) |
 | Qwen/Qwen3-Omni-30B-A3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-Base | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
-| Qwen/Qwen3-VL-32B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-32B-Instruct) |
-| Qwen/Qwen3.5-0.8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-0.8B) |
-| Qwen/Qwen3.5-2B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-2B) |
-| Qwen/Qwen3.5-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-35B-A3B) |
 | Qwen/Qwen3.5-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B) |
 | Qwen/Qwen3.5-9B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-9B) |
 | Qwen/Qwen3.6-27B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.6-27B) |
 | Qwen/Qwen3.6-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) |
-| Qwen/Qwen3.6-35B-A3B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8) |
 | Qwen/Qwen3.8-2.4T-A95B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) |
 | Qwen/Qwen3.8-2.4T-A95B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8) |
 | Qwen/Qwen3.8-27B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| Qwen/Qwen3.8-27B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) |
+| RadixArk/Qwen3.8-27B-DSpark | - |  | - | [HF](https://huggingface.co/RadixArk/Qwen3.8-27B-DSpark) |
+| RadixArk/Qwen3.8-27B-NVFP4 | - |  | - | [HF](https://huggingface.co/RadixArk/Qwen3.8-27B-NVFP4) |
+| YTan2000/Qwen3.8-27B-TQ3_4S | - |  | - | [HF](https://huggingface.co/YTan2000/Qwen3.8-27B-TQ3_4S) |
+| Youssofal/Qwen3.8-27B-MTPLX-Optimized-Quality | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Quality) |
+| Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed) |
+| bartowski/Qwen3.8-27B-GGUF | - |  | - | [HF](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
