@@ -17,6 +17,7 @@
 | DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1 | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1) |
 | DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF) |
+| HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive) |
 | HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF) |
@@ -27,7 +28,6 @@
 | PocketAiHub/Qwen3.8-27B-Abliterated-MLX | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX) |
 | PocketAiHub/Qwen3.8-9B-Abliterated-MLX | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-9B-Abliterated-MLX) |
 | Qwen/Qwen-AgentWorld-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) |
-| Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
 | Qwen/Qwen3-Coder-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
 | Qwen/Qwen3.5-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B) |
@@ -47,16 +47,16 @@
 | Youssofal/Qwen3.8-27B-MTPLX-Optimized-Quality | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Quality) |
 | Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed) |
 | bartowski/Qwen3.8-27B-GGUF | - |  | - | [HF](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF) |
-| bottlecapai/ThinkingCap-Qwen3.6-27B | - |  | - | [HF](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B) |
 | cHunter789/Qwen3.8-27B-i1-IQ4_KS_KT-GGUF | - |  | - | [HF](https://huggingface.co/cHunter789/Qwen3.8-27B-i1-IQ4_KS_KT-GGUF) |
 | chimingw/Qwen3.8-27B-Uncensored-OrcaRouter-GGUF | - |  | - | [HF](https://huggingface.co/chimingw/Qwen3.8-27B-Uncensored-OrcaRouter-GGUF) |
 | cyankiwi/Qwen3.8-27B-AWQ-INT4 | - |  | - | [HF](https://huggingface.co/cyankiwi/Qwen3.8-27B-AWQ-INT4) |
 | dealignai/Qwen3.8-27B-CRACK-GGUF | - |  | - | [HF](https://huggingface.co/dealignai/Qwen3.8-27B-CRACK-GGUF) |
 | empero-ai/Qwen3.8-27B-Ridge-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF) |
-| empero-ai/Qwen3.8-2B | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-2B) |
-| empero-ai/Qwen3.8-2B-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-2B-GGUF) |
-| empero-ai/Qwen3.8-4B | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B) |
-| empero-ai/Qwen3.8-4B-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B-GGUF) |
+| empero-ai/Qwen3.8-2B-Distill | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-2B-Distill) |
+| empero-ai/Qwen3.8-2B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-2B-Distill-GGUF) |
+| empero-ai/Qwen3.8-4B-Distill | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B-Distill) |
+| empero-ai/Qwen3.8-4B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B-Distill-GGUF) |
+| empero-ai/Qwen3.8-9B-Distill | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-9B-Distill) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
