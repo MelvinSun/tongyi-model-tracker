@@ -25,9 +25,11 @@
 | Jackrong/Qwen3.8-27B-MTP-GGUF | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen3.8-27B-MTP-GGUF) |
 | JonathanColetti/Qwen3.8-27B-Uncensored | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored) |
 | JonathanColetti/Qwen3.8-27B-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
+| Jundot/Qwen3.8-27B-oQ4e-mtp | - |  | - | [HF](https://huggingface.co/Jundot/Qwen3.8-27B-oQ4e-mtp) |
 | LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V9-GGUF | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V9-GGUF) |
 | OBLITERATUS/Qwen3.8-27B-OBLITERATED | - |  | - | [HF](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) |
 | PocketAiHub/Qwen3.8-27B-Abliterated-MLX | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX) |
+| PocketAiHub/Qwen3.8-27B-Abliterated-MTPLX-Optimized-Speed | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MTPLX-Optimized-Speed) |
 | PocketAiHub/Qwen3.8-9B-Abliterated-MLX | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-9B-Abliterated-MLX) |
 | Qwen/Qwen3-Coder-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 | Qwen/Qwen3.5-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B) |
@@ -43,7 +45,6 @@
 | TeichAI/Qwen3.8-27B-Fable-Distill | - |  | - | [HF](https://huggingface.co/TeichAI/Qwen3.8-27B-Fable-Distill) |
 | TeichAI/Qwen3.8-27B-Fable-Distill-GGUF | - |  | - | [HF](https://huggingface.co/TeichAI/Qwen3.8-27B-Fable-Distill-GGUF) |
 | True2456/Qwen3.8-27B-AWQ-5.0bpw | - |  | - | [HF](https://huggingface.co/True2456/Qwen3.8-27B-AWQ-5.0bpw) |
-| YTan2000/Qwen3.8-27B-TQ3_4S | - |  | - | [HF](https://huggingface.co/YTan2000/Qwen3.8-27B-TQ3_4S) |
 | Youssofal/Qwen3.8-27B-MTPLX-Optimized-Quality | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Quality) |
 | Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed) |
 | bartowski/Qwen3.8-27B-GGUF | - |  | - | [HF](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF) |
@@ -56,7 +57,6 @@
 | empero-ai/Qwen3.8-2B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-2B-Distill-GGUF) |
 | empero-ai/Qwen3.8-4B-Distill | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B-Distill) |
 | empero-ai/Qwen3.8-4B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B-Distill-GGUF) |
-| empero-ai/Qwen3.8-9B-Distill | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-9B-Distill) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
