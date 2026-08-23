@@ -11,7 +11,6 @@
 | 0xKitkat/Qwen3.8-27B-Uncensored-Aggressive | - |  | - | [HF](https://huggingface.co/0xKitkat/Qwen3.8-27B-Uncensored-Aggressive) |
 | AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16 | - |  | - | [HF](https://huggingface.co/AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16) |
 | AtomicChat/Qwen3.8-27B-GGUF | - |  | - | [HF](https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF) |
-| Blackfrost-AI/Qwen3.8-27B-ABLITERATED-BF16 | - |  | - | [HF](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-BF16) |
 | Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF | - |  | - | [HF](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF) |
 | DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) |
@@ -31,6 +30,8 @@
 | PocketAiHub/Qwen3.8-27B-Abliterated-MLX | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MLX) |
 | PocketAiHub/Qwen3.8-27B-Abliterated-MTPLX-Optimized-Speed | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-27B-Abliterated-MTPLX-Optimized-Speed) |
 | PocketAiHub/Qwen3.8-9B-Abliterated-MLX | - |  | - | [HF](https://huggingface.co/PocketAiHub/Qwen3.8-9B-Abliterated-MLX) |
+| Qwen/Qwen-AgentWorld-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B) |
+| Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
 | Qwen/Qwen3-Coder-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-Next) |
 | Qwen/Qwen3.5-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B) |
 | Qwen/Qwen3.5-9B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-9B) |
@@ -56,7 +57,6 @@
 | empero-ai/Qwen3.8-2B-Distill | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-2B-Distill) |
 | empero-ai/Qwen3.8-2B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-2B-Distill-GGUF) |
 | empero-ai/Qwen3.8-4B-Distill | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B-Distill) |
-| empero-ai/Qwen3.8-4B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B-Distill-GGUF) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
