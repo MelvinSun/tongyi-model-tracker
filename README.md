@@ -8,10 +8,8 @@
 | 模型名称 | 尺寸 | 简介 | 魔搭地址 | HuggingFace |
 |---------|------|------|---------|-------------|
 | 0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF) |
-| AtomicChat/Qwen3.8-27B-GGUF | - |  | - | [HF](https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF) |
 | AtomicChat/Qwen3.8-Flash-Next-GGUF | - |  | - | [HF](https://huggingface.co/AtomicChat/Qwen3.8-Flash-Next-GGUF) |
 | Baekpica/Qwen3.8-Flash-Next-Mixed-Quant-SSD-PLE-GGUF | - |  | - | [HF](https://huggingface.co/Baekpica/Qwen3.8-Flash-Next-Mixed-Quant-SSD-PLE-GGUF) |
-| Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF | - |  | - | [HF](https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF) |
 | DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.8-27B-Cold-Fable-Fusion-GAIN-V1.1-732-Heretic-Uncensored-stage1 | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fable-Fusion-GAIN-V1.1-732-Heretic-Uncensored-stage1) |
@@ -22,10 +20,9 @@
 | HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF | - |  | - | [HF](https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF) |
 | ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF | - |  | - | [HF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
 | Inferact/Qwen3.8-Flash-Next-NVFP4 | - |  | - | [HF](https://huggingface.co/Inferact/Qwen3.8-Flash-Next-NVFP4) |
-| Jackrong/Qwen-Tool-Calling-Template-Fix | - |  | - | [HF](https://huggingface.co/Jackrong/Qwen-Tool-Calling-Template-Fix) |
 | JonathanColetti/Qwen3.8-27B-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
 | Jundot/Qwen3.8-Flash-Next-oQ4e-mtp | - |  | - | [HF](https://huggingface.co/Jundot/Qwen3.8-Flash-Next-oQ4e-mtp) |
-| LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V11-GGUF | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V11-GGUF) |
+| LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V12-GGUF | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V12-GGUF) |
 | Momoking/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4 | - |  | - | [HF](https://huggingface.co/Momoking/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4) |
 | OBLITERATUS/Qwen3.8-27B-OBLITERATED | - |  | - | [HF](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) |
 | QUASAR-QAT/Qwen3.8-27B-QUASAR-NVFP4 | - |  | - | [HF](https://huggingface.co/QUASAR-QAT/Qwen3.8-27B-QUASAR-NVFP4) |
@@ -49,6 +46,7 @@
 | VnimanieAI/Qwen3.8-Flash-Next-W4A16 | - |  | - | [HF](https://huggingface.co/VnimanieAI/Qwen3.8-Flash-Next-W4A16) |
 | Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed) |
 | Youssofal/Qwen3.8-Flash-Next-MTPLX-Optimized-Speed | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-Flash-Next-MTPLX-Optimized-Speed) |
+| agentionai/Qwen3.8-Flash-Next-AP-GGUF | - |  | - | [HF](https://huggingface.co/agentionai/Qwen3.8-Flash-Next-AP-GGUF) |
 | agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-GGUF | - |  | - | [HF](https://huggingface.co/agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-GGUF) |
 | agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF | - |  | - | [HF](https://huggingface.co/agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF) |
 | bartowski/Qwen3.8-Flash-Next-GGUF | - |  | - | [HF](https://huggingface.co/bartowski/Qwen3.8-Flash-Next-GGUF) |
@@ -57,6 +55,8 @@
 | dzannotti/Qwen3.8-Flash-Next-MTP-GGUF | - |  | - | [HF](https://huggingface.co/dzannotti/Qwen3.8-Flash-Next-MTP-GGUF) |
 | empero-ai/Qwen3.8-27B-Ridge-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF) |
 | empero-ai/Qwen3.8-2B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-2B-Distill-GGUF) |
+| empero-ai/Qwen3.8-4B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-4B-Distill-GGUF) |
+| empero-ai/Qwen3.8-9B-Distill-GGUF | - |  | - | [HF](https://huggingface.co/empero-ai/Qwen3.8-9B-Distill-GGUF) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
