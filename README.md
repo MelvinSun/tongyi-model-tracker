@@ -25,8 +25,8 @@
 | Jab1718/qwen3.8-flash-coder-26gb-gguf | - |  | - | [HF](https://huggingface.co/Jab1718/qwen3.8-flash-coder-26gb-gguf) |
 | Jab1718/qwen3.8-flash-coder-85gb-bf16 | - |  | - | [HF](https://huggingface.co/Jab1718/qwen3.8-flash-coder-85gb-bf16) |
 | JonathanColetti/Qwen3.8-27B-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
-| Launch80/Qwen3.8-27B-PARO-int5 | - |  | - | [HF](https://huggingface.co/Launch80/Qwen3.8-27B-PARO-int5) |
 | LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF | - |  | - | [HF](https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF) |
+| LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Final-GGUF | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Final-GGUF) |
 | LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-Final-GGUF | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-Final-GGUF) |
 | Mia-AiLab/Qwen3.8-27B-EXL3-3.5bpw | - |  | - | [HF](https://huggingface.co/Mia-AiLab/Qwen3.8-27B-EXL3-3.5bpw) |
 | Momoking/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4 | - |  | - | [HF](https://huggingface.co/Momoking/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4) |
@@ -55,7 +55,7 @@
 | Qwen/Qwen3.8-Flash-Next-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8) |
 | RadixArk/Qwen3.8-Flash-Next-NVFP4 | - |  | - | [HF](https://huggingface.co/RadixArk/Qwen3.8-Flash-Next-NVFP4) |
 | RentedNoodle/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-Uncensored | - |  | - | [HF](https://huggingface.co/RentedNoodle/Qwen3.8-27B-GSQ-RCO-IQ3_XXS-Uncensored) |
-| agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF | - |  | - | [HF](https://huggingface.co/agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF) |
+| Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed | - |  | - | [HF](https://huggingface.co/Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed) |
 | albucino/Qwen3.8-Flash-Next-W4A16-FP8PLE | - |  | - | [HF](https://huggingface.co/albucino/Qwen3.8-Flash-Next-W4A16-FP8PLE) |
 <!-- MODEL_TABLE_END -->
 
