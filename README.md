@@ -23,6 +23,7 @@
 | ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF | - |  | - | [HF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
 | ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF | - |  | - | [HF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF) |
 | ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF | - |  | - | [HF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) |
+| JetBrains/Qwen3.8-3.6-27B-blend | - |  | - | [HF](https://huggingface.co/JetBrains/Qwen3.8-3.6-27B-blend) |
 | JonathanColetti/Qwen3.8-27B-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
 | KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF | - |  | - | [HF](https://huggingface.co/KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF) |
 | Momoking/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4 | - |  | - | [HF](https://huggingface.co/Momoking/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4) |
@@ -32,12 +33,12 @@
 | Qwen/Qwen-Image-2.1-PE-I2I | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I) |
 | Qwen/Qwen-Image-2.1-PE-T2I | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I) |
 | Qwen/Qwen-Image-Edit-2511 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) |
+| Qwen/Qwen2.5-Coder-7B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | Qwen/Qwen3-8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-8B) |
 | Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
 | Qwen/Qwen3-Embedding-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
-| Qwen/Qwen3.5-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B) |
 | Qwen/Qwen3.5-9B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-9B) |
 | Qwen/Qwen3.6-35B-A3B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) |
 | Qwen/Qwen3.8-2.4T-A95B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) |
@@ -52,11 +53,10 @@
 | ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-Dynamic-MTP-GGUF | - |  | - | [HF](https://huggingface.co/ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-Dynamic-MTP-GGUF) |
 | alibaba-pai/Qwen-Image-2.1-Fun-Acc-LoRAs | - |  | - | [HF](https://huggingface.co/alibaba-pai/Qwen-Image-2.1-Fun-Acc-LoRAs) |
 | alibaba-pai/Qwen-Image-2.1-Fun-Controlnet-Union | - |  | - | [HF](https://huggingface.co/alibaba-pai/Qwen-Image-2.1-Fun-Controlnet-Union) |
+| ausboss/Qwen-Image-2.1-Consistency-LoRA | - |  | - | [HF](https://huggingface.co/ausboss/Qwen-Image-2.1-Consistency-LoRA) |
 | ausboss/Qwen-Image-2.1-Outpaint-LoRA | - |  | - | [HF](https://huggingface.co/ausboss/Qwen-Image-2.1-Outpaint-LoRA) |
 | bartowski/MiMo-V2.6-Distill-Qwen-9B-GGUF | - |  | - | [HF](https://huggingface.co/bartowski/MiMo-V2.6-Distill-Qwen-9B-GGUF) |
 | bottlecapai/ThinkingCap-Qwen3.8-27B | - |  | - | [HF](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.8-27B) |
-| bottlecapai/ThinkingCap-Qwen3.8-27B-GGUF | - |  | - | [HF](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.8-27B-GGUF) |
-| bottlecapai/ThinkingCap-Qwen3.8-27B-NVFP4 | - |  | - | [HF](https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.8-27B-NVFP4) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
