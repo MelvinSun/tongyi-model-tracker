@@ -25,6 +25,7 @@
 | ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF | - |  | - | [HF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) |
 | IsValorum/Qwen3.8-35B-A3B-Distill-MTP-APEX-I-MiniPlus-V2.1-Abliterated-GGUF | - |  | - | [HF](https://huggingface.co/IsValorum/Qwen3.8-35B-A3B-Distill-MTP-APEX-I-MiniPlus-V2.1-Abliterated-GGUF) |
 | JetBrains/Qwen3.8-3.6-27B-blend | - |  | - | [HF](https://huggingface.co/JetBrains/Qwen3.8-3.6-27B-blend) |
+| JetBrains/Qwen3.8-3.6-27B-blend-GGUF | - |  | - | [HF](https://huggingface.co/JetBrains/Qwen3.8-3.6-27B-blend-GGUF) |
 | JonathanColetti/Qwen3.8-27B-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
 | KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF | - |  | - | [HF](https://huggingface.co/KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF) |
 | LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF | - |  | - | [HF](https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF) |
@@ -35,7 +36,6 @@
 | OBLITERATUS/Qwen3.8-27B-OBLITERATED | - |  | - | [HF](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) |
 | PrunaAI/Pruna-Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1) |
 | Qwen/Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-2.1) |
-| Qwen/Qwen2.5-0.5B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct) |
 | Qwen/Qwen2.5-Coder-7B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
@@ -48,15 +48,15 @@
 | Qwen/Qwen3.8-27B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) |
 | Qwen/Qwen3.8-Flash-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) |
 | Qwen/Qwen3.8-Flash-Next-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8) |
+| RunningHubAI/rh-qwen-image-2.1-lora-2104918997757157378 | - |  | - | [HF](https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-lora-2104918997757157378) |
 | SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF | - |  | - | [HF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF) |
+| SC117/Swift-1.5-Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF | - |  | - | [HF](https://huggingface.co/SC117/Swift-1.5-Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF) |
 | Viggle/Qwen-Image-2.1-viggle-turbo | - |  | - | [HF](https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo) |
 | WarmBloodAban/Qwen-Image-2.1-LoRAs | - |  | - | [HF](https://huggingface.co/WarmBloodAban/Qwen-Image-2.1-LoRAs) |
 | XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B | - |  | - | [HF](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B) |
 | abenzerps/Qwen-Image-2.1-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
 | ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-Dynamic-MTP-GGUF | - |  | - | [HF](https://huggingface.co/ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-Dynamic-MTP-GGUF) |
-| ausboss/Qwen-Image-2.1-Consistency-LoRA | - |  | - | [HF](https://huggingface.co/ausboss/Qwen-Image-2.1-Consistency-LoRA) |
-| ausboss/Qwen-Image-2.1-Outpaint-LoRA | - |  | - | [HF](https://huggingface.co/ausboss/Qwen-Image-2.1-Outpaint-LoRA) |
-| ayozhee/Qwen3.8-27B-Abliterated-GSQ-Orca-GGUF | - |  | - | [HF](https://huggingface.co/ayozhee/Qwen3.8-27B-Abliterated-GSQ-Orca-GGUF) |
+| alibaba-pai/Qwen-Image-2.1-Fun-Controlnet-Union | - |  | - | [HF](https://huggingface.co/alibaba-pai/Qwen-Image-2.1-Fun-Controlnet-Union) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
