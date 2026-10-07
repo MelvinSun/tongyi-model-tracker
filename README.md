@@ -8,7 +8,6 @@
 | 模型名称 | 尺寸 | 简介 | 魔搭地址 | HuggingFace |
 |---------|------|------|---------|-------------|
 | 0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF) |
-| AcademiaSD/TAE-Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/AcademiaSD/TAE-Qwen-Image-2.1) |
 | Comfy-Org/Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/Comfy-Org/Qwen-Image-2.1) |
 | DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) |
 | DavidAU/LFM2.5-8B-A1B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/LFM2.5-8B-A1B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF) |
@@ -28,14 +27,12 @@
 | KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF | - |  | - | [HF](https://huggingface.co/KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF) |
 | LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF | - |  | - | [HF](https://huggingface.co/LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF) |
 | LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-Final-GGUF | - |  | - | [HF](https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-Final-GGUF) |
-| ML-Intern-lab/Qwen-Image-2.1-doodle-in-LoRA | - |  | - | [HF](https://huggingface.co/ML-Intern-lab/Qwen-Image-2.1-doodle-in-LoRA) |
 | ML-Intern-lab/Qwen-Image-2.1-viewpoint-orbit-LoRA | - |  | - | [HF](https://huggingface.co/ML-Intern-lab/Qwen-Image-2.1-viewpoint-orbit-LoRA) |
 | Momoking/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4 | - |  | - | [HF](https://huggingface.co/Momoking/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4) |
 | Noctaluna/Noct-Q-Uncensored-Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/Noctaluna/Noct-Q-Uncensored-Qwen-Image-2.1) |
 | OBLITERATUS/Qwen3.8-27B-OBLITERATED | - |  | - | [HF](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) |
 | PrunaAI/Pruna-Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1) |
 | Qwen/Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-2.1) |
-| Qwen/Qwen2.5-0.5B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct) |
 | Qwen/Qwen2.5-Coder-7B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
@@ -57,6 +54,9 @@
 | XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B | - |  | - | [HF](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B) |
 | abenzerps/Qwen-Image-2.1-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
 | ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-Dynamic-MTP-GGUF | - |  | - | [HF](https://huggingface.co/ajgazin/Swift-1.5-Qwen3.8-27B-Uncensored-Dynamic-MTP-GGUF) |
+| alesha-pro/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF | - |  | - | [HF](https://huggingface.co/alesha-pro/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF) |
+| ausboss/Qwen-Image-2.1-Consistency-LoRA | - |  | - | [HF](https://huggingface.co/ausboss/Qwen-Image-2.1-Consistency-LoRA) |
+| ausboss/Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA | - |  | - | [HF](https://huggingface.co/ausboss/Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
