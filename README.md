@@ -27,9 +27,9 @@
 | ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF | - |  | - | [HF](https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF) |
 | JonathanColetti/Qwen3.5-0.8B-Astra-WeightEdit | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.5-0.8B-Astra-WeightEdit) |
 | JonathanColetti/Qwen3.8-27B-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
-| Jundot/Qwen3.8-Flash-Next-oQ4e-mtp | - |  | - | [HF](https://huggingface.co/Jundot/Qwen3.8-Flash-Next-oQ4e-mtp) |
+| LastMachine/Qwen3-8B-ZeroZero-Heretic | - |  | - | [HF](https://huggingface.co/LastMachine/Qwen3-8B-ZeroZero-Heretic) |
+| Lyricccco/Qwen-Image-2.1-TailSteer | - |  | - | [HF](https://huggingface.co/Lyricccco/Qwen-Image-2.1-TailSteer) |
 | ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming | - |  | - | [HF](https://huggingface.co/ML-Intern-lab/Qwen3.5-0.8B-weight-space-programming) |
-| Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata | - |  | - | [HF](https://huggingface.co/Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata) |
 | OBLITERATUS/Qwen3.8-27B-OBLITERATED | - |  | - | [HF](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) |
 | Quazim0t0/Qwenx86-4B-compact | - |  | - | [HF](https://huggingface.co/Quazim0t0/Qwenx86-4B-compact) |
 | Qwen/Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen-Image-2.1) |
