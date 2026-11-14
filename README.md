@@ -12,7 +12,6 @@
 | Comfy-Org/Qwen-Image-2.1 | - |  | - | [HF](https://huggingface.co/Comfy-Org/Qwen-Image-2.1) |
 | ConceptCountry/qwen-concept-27b | - |  | - | [HF](https://huggingface.co/ConceptCountry/qwen-concept-27b) |
 | DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF) |
-| DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF) |
 | DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF | - |  | - | [HF](https://huggingface.co/DavidAU/Qwen3.8-27B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF) |
@@ -32,7 +31,6 @@
 | JonathanColetti/Qwen3.8-27B-Uncensored-GGUF | - |  | - | [HF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF) |
 | KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF | - |  | - | [HF](https://huggingface.co/KasugaiSakura/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF) |
 | LastMachine/Qwen3-8B-ZeroZero-Heretic | - |  | - | [HF](https://huggingface.co/LastMachine/Qwen3-8B-ZeroZero-Heretic) |
-| LastMachine/Qwen3-8B-ZeroZero-Heretic-GGUF | - |  | - | [HF](https://huggingface.co/LastMachine/Qwen3-8B-ZeroZero-Heretic-GGUF) |
 | Lyricccco/Qwen-Image-2.1-TailSteer | - |  | - | [HF](https://huggingface.co/Lyricccco/Qwen-Image-2.1-TailSteer) |
 | MicksHF/Qwen-Image-2.1-Anime-Fusal | - |  | - | [HF](https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal) |
 | OBLITERATUS/Qwen3.8-27B-OBLITERATED | - |  | - | [HF](https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED) |
@@ -42,9 +40,12 @@
 | Qwen/Qwen2.5-Coder-7B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF) |
 | Qwen/Qwen3-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | Qwen/Qwen3-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-4B) |
+| Qwen/Qwen3-8B-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-8B-GGUF) |
 | Qwen/Qwen3-ASR-1.7B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-ASR-1.7B) |
+| Qwen/Qwen3-Coder-30B-A3B-Instruct | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct) |
 | Qwen/Qwen3-Embedding-0.6B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B) |
 | Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice) |
+| Qwen/Qwen3-VL-8B-Instruct-GGUF | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct-GGUF) |
 | Qwen/Qwen3.5-0.8B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-0.8B) |
 | Qwen/Qwen3.5-4B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-4B) |
 | Qwen/Qwen3.5-9B | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.5-9B) |
@@ -56,7 +57,6 @@
 | Qwen/Qwen3.8-Flash-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) |
 | Qwen/Qwen3.8-Flash-Next-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8) |
 | RikiyaT/Qwen3.5-0.8B-weight-space-programming | - |  | - | [HF](https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming) |
-| SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF | - |  | - | [HF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF) |
 <!-- MODEL_TABLE_END -->
 
 *数据每日自动更新，最后更新：2026-02-18 09:30*
