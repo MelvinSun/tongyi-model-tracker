@@ -49,12 +49,12 @@
 | Qwen/Qwen3.8-27B-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) |
 | Qwen/Qwen3.8-Flash-Next | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) |
 | Qwen/Qwen3.8-Flash-Next-FP8 | - |  | - | [HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8) |
-| RikiyaT/Qwen3.5-0.8B-weight-space-programming | - |  | - | [HF](https://huggingface.co/RikiyaT/Qwen3.5-0.8B-weight-space-programming) |
 | SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF | - |  | - | [HF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF) |
 | SC117/Qwen3.8-Flash-Next-abliterated-UD-GGUF | - |  | - | [HF](https://huggingface.co/SC117/Qwen3.8-Flash-Next-abliterated-UD-GGUF) |
 | Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF | - |  | - | [HF](https://huggingface.co/Sakura721/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF) |
 | StillDeadcode/qwen3.8-next-flash-iqr-v4 | - |  | - | [HF](https://huggingface.co/StillDeadcode/qwen3.8-next-flash-iqr-v4) |
 | Viggle/Qwen-Image-2.1-viggle-turbo | - |  | - | [HF](https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo) |
+| XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B | - |  | - | [HF](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B) |
 | abenzerps/Qwen-Image-2.1-Turbo-Quantized | - |  | - | [HF](https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized) |
 | agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF | - |  | - | [HF](https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF) |
 <!-- MODEL_TABLE_END -->
